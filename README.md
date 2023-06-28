@@ -34,3 +34,4 @@ Early and accurate detection of pneumonia can lead to timely interventions and a
 The automated system can assist healthcare professionals, particularly in resource-constrained settings, by providing a reliable and efficient tool for pneumonia diagnosis.
 
 The project contributes to the advancement of artificial intelligence in healthcare and highlights the potential of deep learning techniques in medical imaging analysis.
+
